@@ -1,0 +1,22 @@
+{
+  "name": "new-project-cypress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "cypress": "^13.16.0",
+    "cypress-file-upload": "^5.0.8",
+    "cypress-mochawesome-reporter": "^3.8.2",
+    "mochawesome": "^7.1.3",
+    "mochawesome-merge": "^4.3.0"
+  },
+  "dependencies": {
+    "cypress-real-events": "^1.13.0",
+    "cypress-xpath": "^2.0.1"
+  }
+}
